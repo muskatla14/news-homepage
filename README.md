@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/muskatla14/news-homepage]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://muskatla14.github.io/news-homepage/](https://muskatla14.github.io/news-homepage/)
 
 ## My process
 
@@ -45,5 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [https://github.com/muskatla14](https://www.your-site.com)
+- GitHub Profile - [https://github.com/muskatla14](https://www.your-site.com)
 - Frontend Mentor - [https://www.frontendmentor.io/profile/muskatla14](https://www.frontendmentor.io/profile/yourusername)
